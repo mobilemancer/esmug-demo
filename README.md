@@ -1,5 +1,7 @@
 # esmug-demo
 
+Get a basic Aurelia 2 app running on Azure Static Web Apps.
+
 This project is bootstrapped by [aurelia/new](https://github.com/aurelia/new).
 
 ## Start dev web server
